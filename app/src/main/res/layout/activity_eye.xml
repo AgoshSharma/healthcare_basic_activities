@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Eye">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Most people have eye problems at one time or another. Some are minor and will go away on their own, or are easy to treat at home. Others need a specialist’s care.
+
+Whether your vision isn’t what it used to be, or never was that great, there are things you can do to get your eye health back on track.
+
+See if any of these common problems sound familiar. And always check with a doctor if your symptoms are really bad or don’t clear up within a few days.
+
+Eyestrain
+Anyone who reads for hours, works at a computer, or drives long distances knows about this one. It happens when you overuse your eyes. They get tired and need to rest, just like any other part of your body.
+
+If your eyes feel strained, give them some time off. If they’re still weary after a few days, check with your doctor to make sure it isn’t another problem.
+Night Blindness
+Is it hard to see at night, especially while driving? Is it tough to find your way around in dark places, such as movie theaters?
+
+That sounds like night blindness. It’s a symptom, not a problem in its own right. Nearsightedness, cataracts, keratoconus, and a lack of vitamin A all cause a type of night blindness that doctors can fix.
+
+Some people are born with this problem, or it might develop from a degenerative disease involving the retina, and that usually can’t be treated. If you have it, you’ll need to be extra careful in areas of low light."/>
+
+</RelativeLayout>

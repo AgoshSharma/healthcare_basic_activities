@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Mainallergysymptoms">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Common symptoms of an allergic reaction include:
+•	sneezing and an itchy, runny or blocked nose (allergic rhinitis)
+•	itchy, red, watering eyes (conjunctivitis)
+•	wheezing, chest tightness, shortness of breath and a cough
+•	a raised, itchy, red rash (hives)
+•	swollen lips, tongue, eyes or face
+•	tummy pain, feeling sick, vomiting or diarrhoea
+•	dry, red and cracked skin
+The symptoms vary depending on what you're allergic to and how you come into contact with it. For example, you may have a runny nose if exposed to pollen, develop a rash if you have a skin allergy, or feel sick if you eat something you're allergic to.
+See your General Practitioner if you or your child might have had an allergic reaction to something. They can help determine whether the symptoms are caused by an allergy or another condition.
+"/>
+
+</android.support.constraint.ConstraintLayout>

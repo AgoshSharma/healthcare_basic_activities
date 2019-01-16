@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Whatcausesallergies">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Allergies occur when the body's immune system reacts to a particular substance as though it's harmful.
+It's not clear why this happens, but most people affected have a family history of allergies or have closely related conditions such as asthma or eczema.
+The number of people with allergies is increasing every year. The reasons for this are not understood, but one of the main theories is it's the result of living in a cleaner, germ-free environment, which reduces the number of germs our immune system has to deal with.
+It's thought this may cause it to overreact when it comes into contact with harmless substances.
+"/>
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Symptonofanallergicreaction">
+
+    <TextView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:text="Allergic reactions usually happen quickly within a few minutes of exposure to an allergen.
+They can cause:
+•	sneezing
+•	a runny or blocked nose
+•	red, itchy, watery eyes
+•	wheezing and coughing
+•	a red, itchy rash
+•	worsening of asthma or eczema symptoms
+Most allergic reactions are mild, but occasionally a severe reaction called anaphylaxis or anaphylactic shock can occur. This is a medical emergency and needs urgent treatment.
+"
+    />
+
+</android.support.constraint.ConstraintLayout>

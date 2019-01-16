@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Dehydration">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="If you or your child has gingivostomatitis, it's important to drink plenty of fluids to avoid becoming dehydrated. Young children are particularly at risk as they may refuse to eat or drink because of the pain in their mouth.
+It's important to watch out for signs of dehydration, such as:
+•	headaches
+•	tiredness
+•	irritability
+•	lightheadedness
+•	low urine output
+Most cases of gingivostomatitis get better in 7 to 14 days, although it may take up to three weeks for the sores to heal completely.
+Specialist treatment
+If you or your child still has symptoms of gingivostomatitis after two weeks or the infection is severe, go back to your General Practitioner, who may refer you for specialist treatment.
+Specialist referral may also be needed for gingivostomatitis if you're pregnant or have a weakened immune system.
+Visit your General Practitioner if you have a newborn baby who develops gingivostomatitis, as they may also need to be referred for specialist treatment.
+"/>
+</RelativeLayout>

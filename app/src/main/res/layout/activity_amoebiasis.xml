@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Amoebiasis">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Entamoeba histolytica causes Amoebiasis. It is a protozoan parasite that is present in the large intestine of a human. Amoebiasis is also called as amoebic dysentery. This disease is transmitted by houseflies that carry the parasite from the contaminated faeces of an infected person to any food product, thereby contaminating it.  The symptoms include abdominal pain, cramps, constipation, stools with excess mucous etc."/>
+
+
+</RelativeLayout>

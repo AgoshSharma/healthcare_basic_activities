@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Gettinghelpforallergies">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="See your General Practitioner if you think you or your child might have had an allergic reaction to something.
+The symptoms of an allergic reaction can also be caused by other conditions. Your General Practitioner can help determine whether it's likely you have an allergy.
+If your General Practitioner thinks you might have a mild allergy, they can offer advice and treatment to help manage the condition.
+If your allergy is particularly severe or it's not clear what you're allergic to, your General Practitioner may refer you to an allergy specialist for testing and advice about treatment.
+"
+        />
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Chestpain">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Chest pain can be caused by anything from muscle pain to a heart attack and should never be ignored.
+When to get help
+if you develop sudden severe chest pain, particularly if:
+•	the pain feels heavy, pressing or tight
+•	the pain lasts longer than 15 minutes
+•	the pain spreads to other parts of your body, such as your arms, back or jaw
+•	you also have other symptoms, such as breathlessness, nausea, sweating, or coughing up blood
+•	you are at risk of coronary heart disease – for example, you smoke, are obese, or have high blood pressure, diabetes or high cholesterol
+If the discomfort is only minor or has resolved, it may be more appropriate to either:
+•	speak to your General Practitioner
+Could it be a heart problem?
+Chest pain isn't always caused by a problem with your heart, but it can sometimes be a symptom of:
+•	angina – where the blood supply to the muscles of the heart is restricted
+•	a heart attack – where the blood supply to part of the heart is suddenly blocked
+Both of these conditions can cause a dull, heavy or tight pain in the chest that can spread to the arms, neck, jaw or back. They can also cause additional symptoms, such as breathlessness and nausea.
+The main differences between these conditions is that chest pain caused by angina tends to be triggered by physical activity or emotional stress, and gets better with rest after a few minutes.
+If you have previously been diagnosed with angina, the pain may also be relieved by your angina medication.
+Symptoms that last more than 15 minutes, occur at rest, and include sweating and vomiting are more likely to be caused by a heart attack.
+If you have an angina attack and you've previously been diagnosed with the condition, take the medication prescribed for you. A second dose can be taken after five minutes if the first dose is ineffective.
+If there is no improvement five minutes after the second dose, call 999 and ask for an ambulance.
+Common causes of chest pain
+Most chest pain is not heart-related and isn't a sign of a life-threatening problem. Some common causes of chest pain are outlined below.
+This information should give you an idea of whether these conditions may be causing your chest pain, but you should always seek medical advice to make sure you get a proper diagnosis.
+Gastro-oesophageal reflux disease (GORD)
+Gastro-oesophageal reflux disease is a common condition where acid from the stomach comes up into the oesophagus (gullet).
+Common symptoms of GORD include:
+•	burning chest pain (heartburn)
+•	an unpleasant taste in the mouth caused by stomach acid coming back up into your mouth
+These symptoms usually occur soon after you've eaten and get worse if you bend over or lie down.
+GORD can often be treated by making lifestyle changes and, if necessary, using medication. Read more about treating GORD.
+Bone or muscle problems
+If your chest is painful and tender to touch, it may be caused by a strained muscle in your chest wall. This can be surprisingly painful, but with rest the pain should ease and the muscle will heal in time.
+If you have pain, swelling and tenderness around your ribs, and the pain is made worse by lying down, breathing deeply, coughing or sneezing, you may have a condition called costochondritis.
+This is caused by inflammation in the joints between the cartilage that joins the ribs to the breastbone (sternum). The symptoms often improve after a few weeks and may be relieved by painkillers.
+Anxiety and panic attacks
+Some episodes of chest pain occur as part of an anxiety or panic attack.
+In addition to chest pain and overwhelming feelings of anxiety, these attacks can cause symptoms such as heart palpitations, sweating, breathlessness and dizziness.
+Most panic attacks last for 5 to 20 minutes. In the long-term, you may benefit from psychological therapy and medication, or both.
+Lung conditions
+If you have sharp chest pain that gets worse when you breathe in and out, and is accompanied by other symptoms such as a cough and breathlessness, it may be caused by a condition affecting the lungs or surrounding tissue, such as:
+•	pneumonia – inflammation of the lungs, usually caused by an infection
+•	pleurisy – inflammation of the membrane surrounding the lungs, also usually caused by an infection
+Mild cases of pneumonia can usually be treated with antibiotics, rest and fluids. For people with other health conditions, the condition can be severe and they may need to be treated in hospital.
+Treatment for pleurisy will depend on the underlying cause. Pleurisy caused by a viral infection will often resolve without needing treatment, whereas pleurisy caused by a bacterial infection will usually need to be treated with antibiotics.
+Again, people who are frail or already in poor health may need to be admitted to hospital for treatment.
+Other possible causes
+There are many other potential causes of chest pain, including:
+•	shingles – a viral infection of a nerve and the area of skin around it, which causes a painful rash that develops into itchy blisters
+•	mastitis – pain and swelling of the breast, which is usually caused by an infection, most commonly during breastfeeding
+•	acute cholecystitis – inflammation of the gallbladder, which can cause a sudden sharp pain in the upper right side of your tummy that spreads towards your right shoulder
+•	stomach ulcers – a break in the lining of the stomach, which can cause a burning or gnawing pain in your tummy
+•	a pulmonary embolism – a blockage in the blood vessel that carries blood from the heart to the lungs, which can cause sharp, stabbing chest pain that may be worse when you breathe in, as well as breathlessness, a cough and dizziness
+•	pericarditis – inflammation of the sac surrounding your heart, which can cause a sudden, sharp and stabbing pain in your chest, or more of a dull ache; the pain usually worsens when lying down
+Some of these conditions can be very serious. Make sure you seek medical advice so you can be correctly diagnosed and treated.
+"/>
+</RelativeLayout>

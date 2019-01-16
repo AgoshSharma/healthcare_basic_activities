@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Ankleproblems">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Ankle problems can cause a range of symptoms, including:
+•	pain
+•	swelling
+•	stiffness
+You don't normally need to see a healthcare professional. New onset or flare-up of a longstanding ankle problem should begin to settle within 6 weeks.
+What causes ankle problems?
+Ankle problems are fairly common and can be caused by injuries such as tripping or going over on your ankle.
+Muscle weakness around the ankle can also cause ankle problems to flare-up now and again. It may also be due to a flare-up of an existing problem.
+Can this cause problems anywhere else?
+You may feel some pain in the muscles around your calf and foot. This should improve as your ankle problem gets better.
+Ankle problems can also cause limping. If the limp is severe, using a walking stick on the opposite side to your ankle problem may help.
+Self-help
+Keeping active is an essential part of your treatment and recovery and is the single best thing you can do for your health.
+Being physically active throughout your recovery can:
+•	prevent a recurrence of the problem
+•	maintain your current levels of fitness – even if you have to modify what you normally do, any activity is better than none
+•	keep your other muscles and joints strong and flexible
+•	help you aim for a healthy body weight
+It's recommended you stay at or return to work as quickly as possible during your recovery. You don't need to be pain or symptom-free to return to work.
+Pain treatments
+Pain medication can help to reduce the pain and help you move more comfortably, which can help your recovery.
+Speak to your community pharmacist or other healthcare professional about taking medication or other methods of pain relief. It's important to take medication regularly.
+Resting or moving?
+Within the first 24 to 48 hours of onset of an ankle problem you should try to:
+•	rest your ankle in an elevated position but avoid long spells of not moving at all
+•	move your ankle gently for 10 to 20 seconds every hour when you're awake
+After 48 hours:
+•	Try to use your leg more - exercise really helps your ankle and can relieve pain.
+•	Do whatever you normally would and stay at, or return to work - this is important and is the best way to get better.
+•	When going upstairs, reduce the strain on your ankle by leading with your good leg - use a handrail if available
+•	When going downstairs, reduce the strain on your ankle by leading with your problem leg - use a handrail if available
+Avoid sports or heavy lifting until you have less discomfort and good movement. Remember to warm up before sports.
+When to speak to a health professional
+You should speak to your General Practitioner if:
+•	there's been significant trauma, for example a fall from height or direct blow to the ankle
+•	your ankle is misshapen
+•	your calf is hot, swollen and tender
+•	you've difficulty putting weight on your leg
+•	you've pain that's worsening
+"/>
+</RelativeLayout>

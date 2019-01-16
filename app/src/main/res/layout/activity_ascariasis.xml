@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Ascariasis">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="It is a disease that is caused by a helminth, Ascaris lumbricodes, also called the roundworm. It is an intestinal endoparasite found in humans. Muscular pain, internal bleeding, fever, anaemia, intestinal passage blockage are some symptoms of this disease. The infection is spread by contamination of soil, water, plants, etc. as the eggs of the parasite are excreted out through the faecal matter."/>
+
+
+</RelativeLayout>

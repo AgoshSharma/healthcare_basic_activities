@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Severeallergicreaction">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="In rare cases, an allergy can lead to a severe allergic reaction, called anaphylaxis or anaphylactic shock, which can be life-threatening.
+This affects the whole body and usually develops within minutes of exposure to something you're allergic to.
+Signs of anaphylaxis include any of the symptoms above, as well as:
+•	swelling of the throat and mouth
+•	difficulty breathing
+•	lightheadedness
+•	confusion
+•	blue skin or lips
+•	collapsing and losing consciousness
+Anaphylaxis is a medical emergency that requires immediate treatment. Read more about anaphylaxis for information about what to do if it occurs.
+"/>
+
+</android.support.constraint.ConstraintLayout>

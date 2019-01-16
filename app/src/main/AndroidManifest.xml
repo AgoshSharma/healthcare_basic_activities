@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.agosh.healthcare">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".StartActivity" />
+        <activity android:name=".Eye" />
+        <activity android:name=".Brain" />
+        <activity android:name=".Allcategory" />
+        <activity android:name=".Amoebiasis" />
+        <activity android:name=".Ascariasis" />
+        <activity android:name=".Allergies" />
+        <activity android:name=".Ankleproblems" />
+        <activity android:name=".Backpain" />
+        <activity android:name=".Calfproblems" />
+        <activity android:name=".Catarrh" />
+        <activity android:name=".Chestpain" />
+        <activity android:name=".Coldsore" />
+        <activity android:name=".Chronicpain" />
+        <activity android:name=".Chilblains" />
+        <activity android:name=".Constipation" />
+        <activity android:name=".Cough" />
+        <activity android:name=".Dehydration" />
+        <activity android:name=".Introduction" />
+        <activity android:name=".CommonAllergies" />
+        <activity android:name=".Symptonofanallergicreaction" />
+        <activity android:name=".Gettinghelpforallergies" />
+        <activity android:name=".Howtomanageanallergy" />
+        <activity android:name=".Whatcausesallergies" />
+        <activity android:name=".Symptoms" />
+        <activity android:name=".Mainallergysymptoms" />
+        <activity android:name=".Severeallergicreaction"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Chronicpain">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Chronic or persistent pain is pain that carries on for longer than 12 weeks despite medication or treatment.
+Most people get back to normal after pain following an injury or operation. But sometimes the pain carries on for longer or comes on without any history of an injury or operation.
+Chronic pain can also affect people living with:
+•	diabetes
+•	arthritis
+•	fibromyalgia
+•	irritable bowel
+•	back pain
+What is pain?
+The brain and the nerves inside the spine (the spinal nerves) make up the central nervous system. The spinal nerves carry messages from the body to the brain including signals that tell the brain there's pain somewhere.
+The brain acts like a control centre working out how serious the source of the problem is and what strength the pain should be. Sometimes the brain’s interpretation of these signals isn't always accurate.
+We expect pain to settle down with time but sometimes the brain continues to send out pain signals. These signals can be hard to stop, are often intense and at times seem to come on for no obvious reason. This fact isn't always easy to understand and sometimes people feel that they're being told the pain is in their ‘head’ and 'not real'.
+How common is chronic pain?
+Chronic pain affects 1 in 5 people in Scotland. It can affect all ages and all parts of the body.
+It isn't possible to tell in advance whose pain will become chronic. But we know that people are more likely to develop chronic pain during or after times of stress or unhappiness.
+People can also experience chronic pain even after usual medical tests don’t provide an answer.
+What can I do for myself?
+There’s a lot you can do to help yourself and have a better life even with chronic pain. Simple changes can often make a big difference to the amount of disability and suffering you can experience. This is called pain management.
+To help manage your pain, you might consider:
+•	Planning your day - Make a plan of things to do and places to be to help you keep on top of your pain.
+•	Pacing yourself - Don’t push through the pain, stop before it gets worse then go back to whatever you were doing later.
+•	Learning to relax - Relaxing can be hard when you have pain but finding something which relaxes you will reduce the stress of pain.
+•	Taking regular enjoyable exercise - Even a small amount will make you feel better and ease your pain. It will also keep your muscles and joints strong.
+•	Taking painkillers - Painkillers work better alongside a plan. Patients often say their painkillers don’t seem to work very well.
+•	Talking to others - Tell your friends and family about chronic pain and why you need to do things differently at the moment.
+•	Enjoyment - Doing things you enjoy boosts your own natural painkillers. Think about what you enjoyed before the pain and introduce it back into your routine.
+Transcutaneous electrical nerve stimulation (TENS)
+A TENS machine is a simple way of blocking pain signals using self-adhesive pads to pass an electric current through the skin. It’s a bit like rubbing the sore bit better or using a hot water bottle to provide comfort.
+You can buy TENS machines from pharmacists, supermarkets or online. Prices start from £8.99 for a simple machine. You shouldn’t need to spend more than £30 to get a machine with 2 sets of pads and a fully adjustable pulse rate and width.
+Activity and exercise
+Being active and taking exercise is a good prescription for managing pain. Knowing where to start can be daunting for some people with chronic pain as they often find it hard to do things on some days more than others. Don’t be put off by the word ‘exercise’ - any type of movement is exercise.
+To begin with your muscles might hurt so it's important that you choose a level of exercise that suits you. Learning how to ‘pace’ your activity and exercise can help. Most of all it should be enjoyable.
+If you need help to get going, visit the Active Scotland website to search for activities in your area.
+Walking
+This might start off with walk up and down your path or a walk to the end of the street and back. A local park is also a good option, especially if it has benches for you to rest on along the way.
+If you feel able to walk further, joining a local walking group is a good way to keep active and motivated. Some of these groups are run by local councils and offer different levels of difficulty for beginners and upwards. You can also find walking groups through Ramblers Scotland.
+Dancing or moving to music
+Dancing or moving to music, either sitting down or standing up (or a mixture of both), is a great way to exercise.
+Exercising in the pool
+You don’t need to know how to swim to be able to exercise in a swimming pool. The buoyancy of the water makes us feel lighter. This can make movement and exercise easier than on dry land.
+Spend 10 to 15 minutes in the water to begin with. Slow movements are best. If you don’t swim take someone with you and stay close to the side.
+Exercise classes
+If you'd prefer to exercise with others, you can find out about exercises classes from your local sports centre. Classes range in difficulty so remember to ask what level of exercise each class offers.
+Exercise referral schemes
+Many health care professionals can refer patients to exercise programmes that have been designed to help people become more active.
+These programmes are often based at local sport centres with specialists available to give advice and help to design an exercise programme that meets your needs.
+Dealing with stress and depression
+When the body feels under threat it produces stress hormones that make us feel anxious and tense. The body sees pain as a threat and when it's persistent or chronic, it can make us feel unwell.
+Relaxation
+Finding a way to relax can help to reduce pain. Anything which makes you feel good, you enjoy or gives you pleasure is a form of relaxation.
+Hobbies and activities may have taken a backseat due to your pain, but it's worth thinking about how to get back to doing things you enjoy. Anything that helps you to focus on things other than your pain is a good form of self-management.
+Depression
+Effective pain management tackles all aspects of your life affected by chronic pain - including your mental wellbeing.
+Painkillers
+Painkillers can help to reduce your pain and keep you moving. In some cases they won't be effective at treating your pain and can cause side effects.
+If you're already taking medication or have other health problems, it's important to check with your pharmacist before taking any non-prescription painkillers.
+Pharmacists are a great source of information about chronic pain and medication.
+When should I see my doctor?
+If you're still in pain after 12 weeks, speak to your General Practitioner if you haven't already done so. Your General Practitioner will be able to tell you the best plan for managing your pain.
+"/>
+
+</RelativeLayout>

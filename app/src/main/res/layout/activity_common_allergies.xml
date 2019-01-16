@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CommonAllergies">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Substances that cause allergic reactions are called allergens. The more common allergens include:
+    •	grass and tree pollen – an allergy to these is known as hay fever (allergic rhinitis)
+    •	dust mites
+    •	animal dander (tiny flakes of skin or hair)
+    •	food – particularly nuts, fruit, shellfish, eggs and cow's milk
+    •	insect bites and stings
+    •	medication – including ibuprofen, aspirin, and certain antibiotics
+    •	latex – used to make some gloves and condoms
+    •	mould – these can release small particles into the air that you can breathe in
+    •	household chemicals – including those in detergents and hair dyes
+    Most of these allergens are generally harmless to people who aren't allergic to them."
+/>
+
+</android.support.constraint.ConstraintLayout>

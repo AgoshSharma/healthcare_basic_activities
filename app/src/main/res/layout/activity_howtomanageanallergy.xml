@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Howtomanageanallergy">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="In many cases, the most effective way of managing an allergy is to avoid the allergen that causes the reaction whenever possible.
+For example, if you have a food allergy, you should check a food's ingredients list for allergens before eating it. The Food Standards Agency has more information about food allergen labelling.
+There are also several medications available to help control symptoms of allergic reactions, including:
+•	antihistamines – these can be taken when you notice the symptoms of a reaction, or before being exposed to an allergen to stop a reaction occurring
+•	decongestants – tablets, capsules, nasal sprays or liquids that can be used as a short-term treatment for a blocked nose
+•	lotions and creams, such as moisturising creams (emollients) – these can reduce skin redness and itchiness
+•	steroid medication – sprays, drops, creams, inhalers and tablets that can help reduce redness and swelling caused by an allergic reaction
+For some people with very severe allergies, a treatment called immunotherapy may be recommended.
+This involves being exposed to the allergen in a controlled way over a number of years, so your body gets used to it and doesn't react to it so severely.
+"
+        />
+
+</android.support.constraint.ConstraintLayout>

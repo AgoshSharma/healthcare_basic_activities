@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Brain">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Brain diseases come in different forms. Infections, trauma, stroke, seizures, and tumors are some of the major categories of brain diseases. Here's an overview of various diseases of the brain.
+
+Brain Diseases: Infections
+Brain diseases in the category of infections include:
+
+Meningitis: An inflammation of the lining around the brain or spinal cord, usually due to infection; Neck stiffness, headache, fever, and confusion are common symptoms.
+
+Encephalitis: An inflammation of the brain tissue, usually due to a viral infection; meningitis and encephalitis often occur together, which is called meningoencephalitis.
+
+Brain abscess: A pocket of infection in the brain, usually caused by bacteria; antibiotics and surgical drainage of the area are often necessary.
+
+Brain Diseases: Seizures
+Included in the seizure category of brain diseases is epilepsy, a condition characterized by recurring seizures caused by abnormal and excessive electrical activity in the brain. Head injuries, brain infections, and strokes may cause epilepsy, as well.
+
+Brain Diseases: Trauma
+Trauma includes these conditions:
+
+Concussion: A brain injury that causes a temporary disturbance in brain function, sometimes with unconsciousness and confusion; traumatic head injuries cause concussions and may result in headache, along with concentration and memory problems.
+
+"/>
+
+</RelativeLayout>

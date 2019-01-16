@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Introduction">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="An allergy is a reaction the body has to a particular food or substance.
+Allergies are very common. They're thought to affect more than 1 in 4 people in the UK at some point in their lives.
+They are particularly common in children. Some allergies go away as a child gets older, although many are lifelong. Adults can develop allergies to things they weren't previously allergic to.
+Having an allergy can be a nuisance and affect your everyday activities, but most allergic reactions are mild and can be largely kept under control. Severe reactions can occasionally occur, but these are uncommon.
+"/>
+
+</android.support.constraint.ConstraintLayout>
